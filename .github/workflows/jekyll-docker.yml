@@ -33,6 +33,7 @@ jobs:
       run: |
         bundle exec jekyll build --future
 
+
     # Step 5: Deploy site artifacts
     # Deploy to GitHub Pages using an access token or permissions
     - name: Deploy to GitHub Pages
