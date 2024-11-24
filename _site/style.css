@@ -1,0 +1,28 @@
+body {
+    max-width: 1200px; /* 设置页面的最大宽度 */
+    margin: 0 auto;    /* 居中对齐 */
+    padding: 0 20px;   /* 添加左右间距，避免内容紧贴屏幕边缘 */
+    box-sizing: border-box;
+  }
+  
+  @media (max-width: 768px) {
+    body {
+      max-width: 100%; /* 在小屏幕上全屏显示 */
+      padding: 0 10px;
+    }
+  }
+  
+.wrapper {
+    max-width: 1200px; /* 设置新的最大宽度 */
+    margin: 0 auto;    /* 居中对齐 */
+    padding: 0 20px;   /* 可选：为左右留一点间距 */
+    box-sizing: border-box; /* 包括内边距在宽度内 */
+}
+
+h2 {
+    padding-top: 20px; /* 标题上方的间距 */
+    margin-bottom: 10px; /* 标题和分割线之间的间距 */
+    border-bottom: 2px solid #ddd; /* 分割线的样式 */
+    padding-bottom: 5px; /* 让分割线看起来更自然 */
+  }
+  
