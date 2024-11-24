@@ -114,11 +114,6 @@ The workshop is organized by an international and diverse team of experts in the
 <table>
   <tr>
     <td> 
-      <img src="/images/people/max.png?raw=true" alt="1" width=200px height=200px><br/>
-      <a href="https://staff.fnwi.uva.nl/m.welling/">Max Welling</a><br/>
-      UvA
-    </td>
-    <td> 
       <img src="/images/people/philip.png?raw=true" alt="1" width=200px height=200px><br/>
       <a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a><br/>
       UIC
