@@ -85,7 +85,7 @@ The workshop is organized by an international and diverse team of experts in the
       Yale University/HKUSTGZ
     </td>
     <td> 
-      <img src="/images/people/yifei.png?raw=true" alt="1" width=200px height=200px><br/>
+      <img src="/images/people/yifei_L.png?raw=true" alt="1" width=200px height=200px><br/>
       <a href="http://yifeiacc.github.io/">Yifei Zhang</a><br/>
       NTU
     </td>
