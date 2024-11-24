@@ -1,28 +1,79 @@
+/* Base Body Styles */
 body {
-    max-width: 1200px; /* 设置页面的最大宽度 */
-    margin: 0 auto;    /* 居中对齐 */
-    padding: 0 20px;   /* 添加左右间距，避免内容紧贴屏幕边缘 */
-    box-sizing: border-box;
-  }
-  
-  @media (max-width: 768px) {
-    body {
-      max-width: 100%; /* 在小屏幕上全屏显示 */
-      padding: 0 10px;
-    }
-  }
-  
-.wrapper {
-    max-width: 1200px; /* 设置新的最大宽度 */
-    margin: 0 auto;    /* 居中对齐 */
-    padding: 0 20px;   /* 可选：为左右留一点间距 */
-    box-sizing: border-box; /* 包括内边距在宽度内 */
+  max-width: 1200px; /* Set maximum width for the page */
+  margin: 0 auto;    /* Center the content */
+  padding: 0 20px;   /* Add spacing to avoid content touching edges */
+  box-sizing: border-box;
+  font-family: Arial, sans-serif; /* Use a clean, readable font */
+  line-height: 1.6;  /* Improve readability */
+  background-color: #f9f9f9; /* Optional: Add a subtle background color */
+  color: #333;       /* Text color */
 }
 
+/* Wrapper for Centralized Content */
+.wrapper {
+  max-width: 1200px; /* Set new max width */
+  margin: 0 auto;    /* Center-align content */
+  padding: 0 20px;   /* Optional: Add side spacing */
+  box-sizing: border-box; /* Include padding in width calculations */
+}
+
+/* Headings */
 h2 {
-    padding-top: 20px; /* 标题上方的间距 */
-    margin-bottom: 10px; /* 标题和分割线之间的间距 */
-    border-bottom: 2px solid #ddd; /* 分割线的样式 */
-    padding-bottom: 5px; /* 让分割线看起来更自然 */
+  padding-top: 20px; /* Space above the heading */
+  margin-bottom: 10px; /* Space between the heading and divider */
+  border-bottom: 2px solid #ddd; /* Add a divider line below heading */
+  padding-bottom: 5px; /* Adjust padding for a natural look */
+  font-size: 1.8em; /* Adjust heading size */
+  color: #444; /* Slightly darker text for headings */
+}
+
+/* Media Queries for Responsiveness */
+@media (max-width: 768px) {
+  body {
+      max-width: 100%; /* Full-width on smaller screens */
+      padding: 0 10px; /* Reduce side padding for smaller screens */
   }
-  
+
+  h2 {
+      font-size: 1.5em; /* Adjust heading size for smaller screens */
+      padding-top: 15px;
+      padding-bottom: 3px;
+  }
+
+  .wrapper {
+      padding: 0 10px; /* Ensure wrapper adapts to smaller screens */
+  }
+}
+
+/* Navigation (if applicable) */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: space-around;
+  background-color: #fff; /* Optional: Set background */
+  border: 1px solid #ddd; /* Optional: Add border */
+  border-radius: 5px;
+}
+
+nav ul li {
+  padding: 10px 15px;
+}
+
+@media (max-width: 768px) {
+  nav ul {
+      flex-direction: column; /* Stack menu items on smaller screens */
+      align-items: flex-start;
+  }
+
+  nav ul li {
+      padding: 10px;
+      border-bottom: 1px solid #ddd; /* Separate items with borders */
+  }
+
+  nav ul li:last-child {
+      border-bottom: none; /* Remove border from the last item */
+  }
+}
