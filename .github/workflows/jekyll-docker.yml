@@ -33,11 +33,11 @@ jobs:
       run: |
         bundle exec jekyll build --future
 
-    # Step 5: Deploy site artifacts (Optional)
-    # This assumes the use of GitHub Pages
+    # Step 5: Deploy site artifacts
+    # Deploy to GitHub Pages using an access token or permissions
     - name: Deploy to GitHub Pages
       if: ${{ github.ref == 'refs/heads/main' }}
       uses: peaceiris/actions-gh-pages@v3
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        github_token: ${{ secrets.GITHUB_TOKEN }} # Ensure repo has "Read and Write" permissions
         publish_dir: ./_site
