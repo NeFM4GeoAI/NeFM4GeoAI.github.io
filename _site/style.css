@@ -84,7 +84,7 @@ td {
   position: relative;
   z-index: 2; /* 置于半透明背景上方 */
   color: white; /* 白色字体 */
-  font-size: 24px; /* 默认字体大小 */
+  font-size: 22px; /* 默认字体大小 */
   font-weight: bold; /* 粗体 */
   text-align: center; /* 居中对齐 */
   text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5); /* 添加阴影 */

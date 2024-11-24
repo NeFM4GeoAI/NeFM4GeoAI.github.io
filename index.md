@@ -6,18 +6,18 @@ permlink: /
 
 <link rel="stylesheet" href="style.css">
 
-<div style="color: blue; text-align: center; margin-bottom: 5ex;">
+<div style="color: blue; margin-bottom: 5ex;">
 <p>The Workshop on Non-Euclidean Foundation Models and Geometric Learning (NEGL) will take place at <a href="https://www2025.thewebconf.org/"> WebConf 2025</a> in Sydney, Australia, from April 28–May 2, 2025.
 We invite you to join discussions on Non-Euclidean representation learning and geometric deep learning, and large foundation models, alongside web-related applications!</p>
 </div>
-
 <div class="banner-container">
   <div class="banner-overlay"></div>
   <div class="banner-text">
-    Non-Euclidean Foundation Models and Geometric Learning (NEGL): Advancing AI Beyond Euclidean Frameworks @WebConf 2025
+    Non-Euclidean Foundation Models and Geometric Learning (NEGL): Advancing AI Beyond Euclidean Frameworks @WebConf 2025 
   </div>
 </div>
 
+<br>
 The primary objective of the NEGL workshop at [WebConf 2025](https://www2025.thewebconf.org/) is to create a collaborative platform for researchers, industry professionals, and academics from diverse fields. These include non-Euclidean representation learning, geometric deep learning, and large foundation models, as well as web-related applications such as recommender systems, social network analysis, web knowledge graphs, search systems, information retrieval, and multi-modal web content understanding. The workshop aims to foster knowledge sharing, idea exchange, and discussions on the latest advancements and challenges in these domains.
 
 
