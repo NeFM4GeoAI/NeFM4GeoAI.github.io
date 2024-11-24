@@ -11,18 +11,15 @@ permlink: /
 We invite you to join discussions on Non-Euclidean representation learning and geometric deep learning, and large foundation models, alongside web-related applications!</p>
 </div>
 
-<!-- <div style="text-align: center; margin-top: 3ex; margin-bottom: 3ex;">
-<img src="banner.png" alt="Workshop Banner" style="width: 100%; margin-bottom: 2ex;">
-</div> -->
-
-<div style="text-align: center; margin-top: 3ex; margin-bottom: 3ex; position: relative; width: 100%; height: 300px; background-image: url('banner2.webp'); background-size: cover; background-position: center;">
-    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5);"></div>
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 24px; font-weight: bold; text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);">
+<div class="banner-container">
+  <div class="banner-overlay"></div>
+  <div class="banner-text">
     Non-Euclidean Foundation Models and Geometric Learning (NEGL): Advancing AI Beyond Euclidean Frameworks @WebConf 2025
   </div>
 </div>
 
 The primary objective of the NEGL workshop at [WebConf 2025](https://www2025.thewebconf.org/) is to create a collaborative platform for researchers, industry professionals, and academics from diverse fields. These include non-Euclidean representation learning, geometric deep learning, and large foundation models, as well as web-related applications such as recommender systems, social network analysis, web knowledge graphs, search systems, information retrieval, and multi-modal web content understanding. The workshop aims to foster knowledge sharing, idea exchange, and discussions on the latest advancements and challenges in these domains.
+
 
 ## Important Dates
 
@@ -109,35 +106,45 @@ The workshop is organized by an international and diverse team of experts in the
 
 ## Speakers
 
-The workshop is organized by an international and diverse team of experts in the field:
+The workshop features an international and distinguished lineup of speakers from academia and industry:
 
 <table>
   <tr>
-    <td> 
-      <img src="/images/people/philip.png?raw=true" alt="1" width=200px height=200px><br/>
-      <a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a><br/>
+    <td>
+      <img src="/images/people/philip.png" alt="Philip S. Yu">
+      <br>
+      <a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a>
+      <br>
       UIC
     </td>
-    <td> 
-      <img src="/images/people/shirui.png?raw=true" alt="1" width=200px height=200px><br/>
-      <a href="https://scholar.google.com.au/citations?user=frWRJN4AAAAJ&hl=en">Shirui Pan</a><br/>
+    <td>
+      <img src="/images/people/shirui.png" alt="Shirui Pan">
+      <br>
+      <a href="https://scholar.google.com.au/citations?user=frWRJN4AAAAJ&hl=en">Shirui Pan</a>
+      <br>
       Griffith University
     </td>
-    <td> 
-      <img src="/images/people/min.png?raw=true" alt="1" width=200px height=200px><br/>
-      <a href="https://scholar.google.com/citations?user=P8WYyYIAAAAJ&hl=en">Min Zhou</a><br/>
+    <td>
+      <img src="/images/people/min.png" alt="Min Zhou">
+      <br>
+      <a href="https://scholar.google.com/citations?user=P8WYyYIAAAAJ&hl=en">Min Zhou</a>
+      <br>
       Huawei Technologies
     </td>
-    <td> 
-      <img src="/images/people/pascal.png?raw=true" alt="1" width=200px height=200px><br/>
-      <a href="https://staff.fnwi.uva.nl/p.s.m.mettes/">Pascal Mettes</a><br/>
+    <td>
+      <img src="/images/people/pascal.png" alt="Pascal Mettes">
+      <br>
+      <a href="https://staff.fnwi.uva.nl/p.s.m.mettes/">Pascal Mettes</a>
+      <br>
       UvA
     </td>
-  </tr> 
+  </tr>
 </table>
+
+
 
 ---
 
-For questions or concerns, feel free to contact us at `mlyang[dot]yale[at]outlook.com`
+For questions or concerns, feel free to contact us at `menglinyang.ac@gmail.com`
 
 We look forward to your participation in the workshop!
