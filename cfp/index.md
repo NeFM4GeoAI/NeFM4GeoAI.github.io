@@ -6,7 +6,7 @@ permlink: /cfp/
 
 <link rel="stylesheet" href="../style.css">
 
-The primary objective of the NEGL workshop at [WebConf 2025](https://www2025.thewebconf.org/) is to create a collaborative platform for researchers, industry professionals, and academics from diverse fields. These include non-Euclidean representation learning, geometric deep learning, and large foundation models, as well as web-related applications such as recommender systems, social network analysis, web knowledge graphs, search systems, information retrieval, and multi-modal web content understanding. The workshop aims to foster knowledge sharing, idea exchange, and discussions on the latest advancements and challenges in these domains.
+The primary objective of the NEGEL workshop at [WebConf 2025](https://www2025.thewebconf.org/) is to create a collaborative platform for researchers, industry professionals, and academics from diverse fields. These include non-Euclidean representation learning, geometric deep learning, and large foundation models, as well as web-related applications such as recommender systems, social network analysis, web knowledge graphs, search systems, information retrieval, and multi-modal web content understanding. The workshop aims to foster knowledge sharing, idea exchange, and discussions on the latest advancements and challenges in these domains.
 
 We encourage in-person participation, but remote presentation will be available for authors who cannot travel to Sydney.
 
@@ -46,7 +46,7 @@ We encourage in-person participation, but remote presentation will be available 
 - Specific challenges and solutions for trustworthiness in user-facing web applications and sensitive data processing.
 
 #### (7) Benchmarks and Evaluation
-- Development of NEGL-related datasets, evaluation protocols, and benchmarking tools for geometric and non-Euclidean models.
+- Development of NEGEL-related datasets, evaluation protocols, and benchmarking tools for geometric and non-Euclidean models.
 - Metrics for assessing real-world performance, scalability, and efficiency.
 
 
@@ -80,7 +80,7 @@ TBA.
 
 ## Important Dates
 
-* **2024-12-18**: Paper submission deadline  
+* **2024-12-25**: Paper submission deadline   
 * **2025-01-13**: Author notification  
 * **2025-02-02**: Camera-ready submission  
 * **2025-04-28**: Workshop (Full-day session)
