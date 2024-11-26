@@ -8,7 +8,7 @@ permlink: /cfp/
 
 The primary objective of the NEGEL workshop at [WebConf 2025](https://www2025.thewebconf.org/) is to create a collaborative platform for researchers, industry professionals, and academics from diverse fields. These include non-Euclidean representation learning, geometric deep learning, and large foundation models, as well as web-related applications such as recommender systems, social network analysis, web knowledge graphs, search systems, information retrieval, and multi-modal web content understanding. The workshop aims to foster knowledge sharing, idea exchange, and discussions on the latest advancements and challenges in these domains.
 
-We encourage in-person participation, but remote presentation will be available for authors who cannot travel to Sydney.
+**We encourage in-person participation, but remote presentations will be available for authors who cannot travel to Sydney**.
 
 
 ## Topics and Scope
@@ -16,12 +16,12 @@ We encourage in-person participation, but remote presentation will be available 
 #### (1) Theoretical Foundations
 - Investigating generalization error, trainability, representation precision, and curvature-dimension tradeoff in non-Euclidean and geometric models.
 - Contributions analyzing properties such as curvature, geodesics, isometries, and their effects on the performance of foundation models.
-- Studies on expressive power of non-Euclidean and geometric representation.
+- Studies on the expressive power of non-Euclidean and geometric representation.
 
 #### (2) Architectures, Algorithms, and Large Foundation Models (including LLMs, ViTs, and multi-modal models)
-- Development of novel architectures and algorithms integrating foundation models with non-Euclidean geometries, mixed-curvature spaces, and geometric principles.
+- Developing novel architectures and algorithms by integrating foundation models with non-Euclidean geometries, mixed-curvature spaces, and geometric principles.
 - Adapting LLMs, ViTs, and multi-modal models to operate within non-Euclidean or geometric settings.
-- Creation of new foundation models specifically tailored for non-Euclidean and geometric spaces.
+- Creating new foundation models specifically tailored for non-Euclidean and geometric spaces.
 - Combining non-Euclidean architectures, such as hyperbolic, spherical, mixed-curvature models, and graph neural networks, with foundation models.
 - Applications of these models to web-related tasks such as search, recommendation, content understanding, and topology-aware data processing.
 
@@ -55,7 +55,7 @@ We encourage in-person participation, but remote presentation will be available 
 
 We invite submissions between **4 and 8 pages** (excluding references) covering the above topics. Manuscripts will be reviewed by our program committee through a **single-blind review process**, meaning that authors' names do not need to be anonymized. Accepted submissions will be presented either as oral talks or posters during the workshop.
 
-For unpublished work, authors have the option to include their accepted papers in the **Companion Proceedings of the Web Conference 2025**, provided they meet the camera-ready timeline. Including a paper in the companion proceedings does **not** restrict future submissions to other venues. Previously published work is also welcome for submission to the workshop, but such work will **not** be included in the companion proceedings. 
+For unpublished work, authors have the option to include their accepted papers in the **Companion Proceedings of the Web Conference 2025**, provided they meet the camera-ready timeline. Including a paper in the companion proceedings does **not** restrict future submissions to other venues. Previously published work is also welcome for submission to the workshop, but such work will **not** be included in the companion proceedings.
 
 This policy encourages open discussions while respecting the integrity of prior and future publications.
 
@@ -71,19 +71,20 @@ All submissions must be in English and must adhere to the [ACM template and form
 
 CCS class and keywords sections are optional.
 
-- Papers must be between **4 and 8 pages** in the ACM manuscript format (excluding references).  
-- Appendices are allowed but will not count toward the page limit. References and acknowledgements are excluded from the page count.
+- Papers must be between **4 and 8 pages** in the ACM manuscript format (excluding references). 
+- Appendices are allowed but will not count toward the page limit. References and acknowledgments are excluded from the page count.
 
 ### Submission Site
 
-TBA.
+Submission site:[https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/NEGEL](https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/NEGEL)
 
 ## Important Dates
 
-* **2024-12-25**: Paper submission deadline   
-* **2025-01-13**: Author notification  
-* **2025-02-02**: Camera-ready submission  
+* **2024-12-25**: Paper submission deadline  
+* **2025-01-13**: Author notification 
+* **2025-02-02**: Camera-ready submission 
 * **2025-04-28**: Workshop (Full-day session)
 
-TIMEZONE: Anywhere On Earth (UTC-12)
+Timezone: Anywhere On Earth (UTC-12)
+
 

@@ -11,10 +11,10 @@ permlink: /
 We invite you to join discussions on Non-Euclidean representation learning and geometric deep learning, and large foundation models, alongside web-related applications!</p>
 </div>
 <div class="banner-container">
-  <div class="banner-overlay"></div>
-  <div class="banner-text">
-    Non-Euclidean Foundation Models and Geometric Learning (NEGEL): Advancing AI Beyond Euclidean Frameworks @WebConf 2025, in Sydney, Australia, from April 28–May 2, 2025.
-  </div>
+ <div class="banner-overlay"></div>
+ <div class="banner-text">
+ Non-Euclidean Foundation Models and Geometric Learning (NEGEL): Advancing AI Beyond Euclidean Frameworks @WebConf 2025, in Sydney, Australia, from April 28–May 2, 2025.
+ </div>
 </div>
 
 <br>
@@ -28,7 +28,7 @@ The primary objective of the NEGEL workshop at [WebConf 2025](https://www2025.th
 * **2025-02-02**: Camera-ready submission  
 * **2025-04-28**: Workshop at WebConf 2025 (Whole-day session)
 
-TIMEZONE: Anywhere On Earth (UTC-12)
+Timezone: Anywhere On Earth (UTC-12)
 
 
 ## Program Highlights
@@ -55,9 +55,9 @@ We welcome submissions on the following topics (but not limited to):
 
 - **Architectures, Algorithms, and Large Foundation Models**: Develop novel architectures and algorithms integrating large foundation models (e.g., LLMs, ViTs, and multi-modal models) with non-Euclidean spaces and geometric principles, enhancing their capability to handle complex structures and relationships.
 
-- **Adapting and Enhancing Existing Foundation Models**: Investigate approaches for fine-tuning, continual learning, and adapting existing foundation models to new tasks and domains. This includes integrating advanced techniques such as **GraphRAG** (Graph Retrieval-Augmented Generation) for knowledge-driven applications, and enabling agent-like capabilities for interactive and adaptive problem-solving in non-Euclidean.
+- **Adapting and Enhancing Existing Foundation Models**: Investigate approaches for fine-tuning, continual learning, and adapting existing foundation models to new tasks and domains. This includes integrating advanced techniques such as **GraphRAG** (Graph Retrieval-Augmented Generation) for knowledge-driven applications and enabling agent-like capabilities for interactive and adaptive problem-solving in non-Euclidean.
 
-- **Geometric Deep Learning**: Advance methods in geometric learning, including **graph neural networks**, **equivariant models, and message-passing framework**s, with applications to web-specific tasks like structured data representation and multi-modal alignment.
+- **Geometric Deep Learning**: Advanced methods in geometric learning, including **graph neural networks**, **equivariant models, and message-passing framework**s, with applications to web-specific tasks like structured data representation and multi-modal alignment.
 
 - **Web Applications and Case Studies**: Highlight applications in web domains, including **social networks, knowledge graphs, search systems, recommender systems, and multi-modal content understanding**.
 
@@ -67,6 +67,7 @@ We welcome submissions on the following topics (but not limited to):
 
 
 
+Submission site:[https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/NEGEL](https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/NEGEL)
 
 For submission guidelines, visit the [Call for Papers page]({{ "/cfp/" | relative_url }}).
 
@@ -75,33 +76,33 @@ For submission guidelines, visit the [Call for Papers page]({{ "/cfp/" | relativ
 The workshop is organized by an international and diverse team of experts in the field:
 
 <table>
-  <tr>
-    <td> 
-      <img src="/images/people/menglin.png?raw=true" alt="1" width=200px height=200px><br/>
-      <a href="https://yangmenglin.site/">Menglin Yang</a><br/>
-      Yale University/HKUSTGZ
-    </td>
-    <td> 
-      <img src="/images/people/yifei_L.png?raw=true" alt="1" width=200px height=200px><br/>
-      <a href="http://yifeiacc.github.io/">Yifei Zhang</a><br/>
-      NTU
-    </td>
-    <td> 
-      <img src="/images/people/jialin.png?raw=true" alt="1" width=200px height=200px><br/>
-      <a href="https://cather-chen.github.io/">Jialin Chen</a><br/>
-      Yale University
-    </td>
-    <td> 
-      <img src="/images/people/Melanie.png?raw=true" alt="1" width=200px height=200px><br/>
-      <a href="http://melanie-weber.com/">Melanie Weber</a><br/>
-      Harvard University
-    </td>
-    <td> 
-      <img src="/images/people/rex.png?raw=true" alt="1" width=200px height=200px><br/>
-      <a href="https://www.cs.yale.edu/homes/ying-rex/">Rex Ying</a><br/>
-      Yale University
-    </td>
-  </tr> 
+ <tr>
+ <td> 
+ <img src="/images/people/menglin.png?raw=true" alt="1" width=200px height=200px><br/>
+ <a href="https://yangmenglin.site/">Menglin Yang</a><br/>
+ Yale University/HKUSTGZ
+ </td>
+ <td> 
+ <img src="/images/people/yifei_L.png?raw=true" alt="1" width=200px height=200px><br/>
+ <a href="http://yifeiacc.github.io/">Yifei Zhang</a><br/>
+ NTU
+ </td>
+ <td> 
+ <img src="/images/people/jialin.png?raw=true" alt="1" width=200px height=200px><br/>
+ <a href="https://cather-chen.github.io/">Jialin Chen</a><br/>
+ Yale University
+ </td>
+ <td> 
+ <img src="/images/people/Melanie.png?raw=true" alt="1" width=200px height=200px><br/>
+ <a href="http://melanie-weber.com/">Melanie Weber</a><br/>
+ Harvard University
+ </td>
+ <td> 
+ <img src="/images/people/rex.png?raw=true" alt="1" width=200px height=200px><br/>
+ <a href="https://www.cs.yale.edu/homes/ying-rex/">Rex Ying</a><br/>
+ Yale University
+ </td>
+ </tr> 
 </table>
 
 ## Speakers
@@ -109,36 +110,36 @@ The workshop is organized by an international and diverse team of experts in the
 The workshop features an international and distinguished lineup of speakers from academia and industry:
 
 <table>
-  <tr>
-    <td>
-      <img src="/images/people/philip.png" alt="Philip S. Yu">
-      <br>
-      <a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a>
-      <br>
-      UIC
-    </td>
-    <td>
-      <img src="/images/people/shirui.png" alt="Shirui Pan">
-      <br>
-      <a href="https://scholar.google.com.au/citations?user=frWRJN4AAAAJ&hl=en">Shirui Pan</a>
-      <br>
-      Griffith University
-    </td>
-    <td>
-      <img src="/images/people/min.png" alt="Min Zhou">
-      <br>
-      <a href="https://scholar.google.com/citations?user=P8WYyYIAAAAJ&hl=en">Min Zhou</a>
-      <br>
-      Huawei Technologies
-    </td>
-    <td>
-      <img src="/images/people/pascal.png" alt="Pascal Mettes">
-      <br>
-      <a href="https://staff.fnwi.uva.nl/p.s.m.mettes/">Pascal Mettes</a>
-      <br>
-      UvA
-    </td>
-  </tr>
+ <tr>
+ <td>
+ <img src="/images/people/philip.png" alt="Philip S. Yu">
+ <br>
+ <a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a>
+ <br>
+ UIC
+ </td>
+ <td>
+ <img src="/images/people/shirui.png" alt="Shirui Pan">
+ <br>
+ <a href="https://scholar.google.com.au/citations?user=frWRJN4AAAAJ&hl=en">Shirui Pan</a>
+ <br>
+ Griffith University
+ </td>
+ <td>
+ <img src="/images/people/min.png" alt="Min Zhou">
+ <br>
+ <a href="https://scholar.google.com/citations?user=P8WYyYIAAAAJ&hl=en">Min Zhou</a>
+ <br>
+ Huawei Technologies
+ </td>
+ <td>
+ <img src="/images/people/pascal.png" alt="Pascal Mettes">
+ <br>
+ <a href="https://staff.fnwi.uva.nl/p.s.m.mettes/">Pascal Mettes</a>
+ <br>
+ UvA
+ </td>
+ </tr>
 </table>
 
 
@@ -146,6 +147,6 @@ The workshop features an international and distinguished lineup of speakers from
 
 TBA
 
-To be our program committee or you have any questions about the workshop, feel free to contact us at `negel2025@outlook.com`
+To be our program committee or if you have any questions about the workshop, feel free to contact us at `negel2025@outlook.com`
 
 We look forward to your participation in the workshop!
