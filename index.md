@@ -1,5 +1,5 @@
 ---
-title: "NEGEL Workshop @ WebConf 2025"
+title: "NEGEL Workshop @ TheWebConf 2025"
 layout: page
 permlink: /
 ---
@@ -7,18 +7,18 @@ permlink: /
 <link rel="stylesheet" href="style.css">
 
 <div style="color: blue; margin-bottom: 5ex;">
-<p>The Workshop on Non-Euclidean Foundation Models and Geometric Learning (NEGEL) will take place at <a href="https://www2025.thewebconf.org/"> WebConf 2025</a> in Sydney, Australia, from April 28–May 2, 2025.
+<p>The Workshop on Non-Euclidean Foundation Models and Geometric Learning (NEGEL) will take place at <a href="https://www2025.theTheWebConf.org/"> TheWebConf 2025</a> in Sydney, Australia, from April 28–May 2, 2025.
 We invite you to join discussions on Non-Euclidean representation learning and geometric deep learning, and large foundation models, alongside web-related applications!</p>
 </div>
 <div class="banner-container">
  <div class="banner-overlay"></div>
  <div class="banner-text">
- Non-Euclidean Foundation Models and Geometric Learning (NEGEL): Advancing AI Beyond Euclidean Frameworks @WebConf 2025, in Sydney, Australia, from April 28–May 2, 2025.
+ Non-Euclidean Foundation Models and Geometric Learning (NEGEL): Advancing AI Beyond Euclidean Frameworks @TheWebConf 2025, in Sydney, Australia, from April 28–May 2, 2025.
  </div>
 </div>
 
 <br>
-The primary objective of the NEGEL workshop at [WebConf 2025](https://www2025.thewebconf.org/) is to create a collaborative platform for researchers, industry professionals, and academics from diverse fields. These include non-Euclidean representation learning, geometric deep learning, and large foundation models, as well as web-related applications such as recommender systems, social network analysis, web knowledge graphs, search systems, information retrieval, and multi-modal web content understanding. The workshop aims to foster knowledge sharing, idea exchange, and discussions on the latest advancements and challenges in these domains.
+The primary objective of the NEGEL workshop at [TheWebConf 2025](https://www2025.theTheWebConf.org/) is to create a collaborative platform for researchers, industry professionals, and academics from diverse fields. These include non-Euclidean representation learning, geometric deep learning, and large foundation models, as well as web-related applications such as recommender systems, social network analysis, web knowledge graphs, search systems, information retrieval, and multi-modal web content understanding. The workshop aims to foster knowledge sharing, idea exchange, and discussions on the latest advancements and challenges in these domains.
 
 
 ## Important Dates
@@ -26,7 +26,7 @@ The primary objective of the NEGEL workshop at [WebConf 2025](https://www2025.th
 * **2024-12-25**: Paper submission deadline  
 * **2025-01-13**: Author notification  
 * **2025-02-02**: Camera-ready submission  
-* **2025-04-28**: Workshop at WebConf 2025 (Whole-day session)
+* **2025-04-28**: Workshop at TheWebConf 2025 (Whole-day session)
 
 Timezone: Anywhere On Earth (UTC-12)
 
@@ -51,11 +51,11 @@ Timezone: Anywhere On Earth (UTC-12)
 
 We welcome submissions on the following topics (but not limited to):
 
-- **Theoretical Foundations**: Explore the principles underlying non-Euclidean and geometric representation learning, focusing on properties such as curvature, geodesics, and isometries, and their influence on foundation model performance.
+- **Theoretical Foundations**: Investigate fundamental principles of non-Euclidean and geometric deep learning, including manifold theory, differential geometry, and non-Euclidean spaces. Topics encompass mathematical properties such as sectional curvature, geodesic distances, parallel transport, and isometric transformations, with particular emphasis on their implications for foundation model architectures and optimization dynamics..
 
-- **Architectures, Algorithms, and Large Foundation Models**: Develop novel architectures and algorithms integrating large foundation models (e.g., LLMs, ViTs, and multi-modal models) with non-Euclidean spaces and geometric principles, enhancing their capability to handle complex structures and relationships.
+- **Architectures, Algorithms, and Large Foundation Models**: Develop new architectures and algorithms integrating large foundation models (e.g., LLMs, ViTs, and multi-modal models) with non-Euclidean spaces and geometric principles, enhancing their capability to handle complex structures and relationships.
 
-- **Adapting and Enhancing Existing Foundation Models**: Investigate approaches for fine-tuning, continual learning, and adapting existing foundation models to new tasks and domains. This includes integrating advanced techniques such as **GraphRAG** (Graph Retrieval-Augmented Generation) for knowledge-driven applications and enabling agent-like capabilities for interactive and adaptive problem-solving in non-Euclidean.
+- **Adapting and Enhancing Existing Foundation Models**: Present methodologies for extending and adapting foundation models through geometric principles. Key areas include geometric fine-tuning strategies, manifold-aware continual learning, and techniques for preserving geometric structure during model adaptation. Special interest in GraphRAG implementations that leverage geometric structures for knowledge retrieval and generation, as well as geometric approaches to agent architectures.
 
 - **Geometric Deep Learning**: Advanced methods in geometric learning, including **graph neural networks**, **equivariant models, and message-passing framework**s, with applications to web-specific tasks like structured data representation and multi-modal alignment.
 
@@ -67,7 +67,7 @@ We welcome submissions on the following topics (but not limited to):
 
 
 
-Submission site:[https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/NEGEL](https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/NEGEL)
+Submission site:[https://openreview.net/group?id=ACM.org/TheTheWebConf/2025/Workshop/NEGEL](https://openreview.net/group?id=ACM.org/TheTheWebConf/2025/Workshop/NEGEL)
 
 For submission guidelines, visit the [Call for Papers page]({{ "/cfp/" | relative_url }}).
 
