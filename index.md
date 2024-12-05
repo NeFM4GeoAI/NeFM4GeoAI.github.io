@@ -27,8 +27,10 @@ The primary objective of the NEGEL workshop at [TheWebConf 2025](https://www2025
 * **2025-01-13**: Author notification  
 * **2025-02-02**: Camera-ready submission  
 * **2025-04-28**: Workshop at TheWebConf 2025 (Whole-day session)
+* <span style="color: red;">Submission site: [https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/NEGEL](https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/NEGEL)</span>
 
 Timezone: Anywhere On Earth (UTC-12)
+
 
 
 ## Program Highlights
@@ -138,6 +140,13 @@ The workshop features an international and distinguished lineup of speakers from
  <a href="https://staff.fnwi.uva.nl/p.s.m.mettes/">Pascal Mettes</a>
  <br>
  UvA
+ </td>
+  <td>
+ <img src="/images/people/smita.png" alt="Smita Srivastava">
+ <br>
+ <a href="https://scholar.google.com/citations?user=l2Pr9m8AAAAJ&hl=en">Smita Srivastava</a>
+ <br>
+ Yale University
  </td>
  </tr>
 </table>
