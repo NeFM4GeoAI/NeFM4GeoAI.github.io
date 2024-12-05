@@ -142,9 +142,9 @@ The workshop features an international and distinguished lineup of speakers from
  UvA
  </td>
   <td>
- <img src="/images/people/smita.png" alt="Smita Srivastava">
+ <img src="/images/people/smita.png" alt="Smita Krishnaswamy">
  <br>
- <a href="https://scholar.google.com/citations?user=l2Pr9m8AAAAJ&hl=en">Smita Srivastava</a>
+ <a href="https://scholar.google.com/citations?user=l2Pr9m8AAAAJ&hl=en">Smita Krishnaswamy</a>
  <br>
  Yale University
  </td>
