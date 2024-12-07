@@ -13,24 +13,24 @@ The primary objective of the NEGEL workshop at [TheWebConf 2025](https://www2025
 
 ## Topics and Scope
 
-#### (1) Theoretical Foundations
-- Investigating generalization error, trainability, representation precision, and curvature-dimension tradeoff in non-Euclidean and geometric models.
-- Contributions analyzing properties such as curvature, geodesics, isometries, and their effects on the performance of foundation models.
-- Studies on the expressive power of non-Euclidean and geometric representation.
-
-#### (2) Architectures, Algorithms, and Large Foundation Models (including LLMs, ViTs, and multi-modal models)
+#### (1) Architectures, Algorithms, and Large Foundation Models (including LLMs, ViTs, and multi-modal models)
 - Developing novel architectures and algorithms by integrating foundation models with non-Euclidean geometries, mixed-curvature spaces, and geometric principles.
 - Adapting LLMs, ViTs, and multi-modal models to operate within non-Euclidean or geometric settings.
 - Creating new foundation models specifically tailored for non-Euclidean and geometric spaces.
 - Combining non-Euclidean architectures, such as hyperbolic, spherical, mixed-curvature models, and graph neural networks, with foundation models.
 - Applications of these models to web-related tasks such as search, recommendation, content understanding, and topology-aware data processing.
 
-#### (3) Adapting and Enhancing Existing Foundation Models
+#### (2) Adapting and Enhancing Existing Large Language/Foundation Models
 - Fine-tuning, continual learning, and adaptation of existing foundation models for specific tasks in non-Euclidean and geometric contexts.
 - Leveraging advanced frameworks like **GraphRAG** (Graph Retrieval-Augmented Generation) to improve knowledge-driven applications.
 - Enabling agent-like capabilities for interactive, adaptive problem-solving and real-time decision-making in complex geometric and non-Euclidean spaces.
 - Integration of graph-based reasoning and domain-specific geometric representations into existing foundation models.
 
+#### (3) Theoretical Foundations
+- Investigating generalization error, trainability, representation precision, and curvature-dimension tradeoff in non-Euclidean and geometric models.
+- Contributions analyzing properties such as curvature, geodesics, isometries, and their effects on the performance of foundation models.
+- Studies on the expressive power of non-Euclidean and geometric representation.
+- 
 #### (4) Geometric Deep Learning
 - Advances in geometric learning frameworks, including graph neural networks, message-passing networks, and equivariant models.
 - Applications of geometric deep learning to social networks, graphs, multi-modal data, and structured representations.
@@ -53,9 +53,15 @@ The primary objective of the NEGEL workshop at [TheWebConf 2025](https://www2025
 
 ## Submission Guidelines
 
-We invite submissions between **4 and 8 pages** (excluding references) covering the above topics. Manuscripts will be reviewed by our program committee through a **double-blind review process**. Accepted submissions will be presented either as oral talks or posters during the workshop.
+We welcome submissions of papers ranging from 4 to 8 pages as main content, with up to 2 additional pages containing references and an optional appendix. All submissions must be in PDF format and formatted according to the new ACM format published in ACM guidelines (e.g., using the ACM LaTeX template on Overleaf) and selecting the “sigconf” sample.
 
-For unpublished work, authors have the option to include their accepted papers in the **Companion Proceedings of the Web Conference 2025**, provided they meet the camera-ready timeline. Including a paper in the companion proceedings does **not** restrict future submissions to other venues. Previously published work is also welcome for submission to the workshop, but such work will **not** be included in the companion proceedings.
+Manuscripts will be reviewed by our program committee through a *single*-blind review process**. Accepted submissions will be presented either as oral talks or posters during the workshop.
+
+**Submission Policy**
+- Authors of unpublished papers accepted to the workshop may choose to have their work published in the **Companion Proceedings of TheWebConf 2025**, provided they meet the camera-ready submission deadline.  
+- Papers not included in the **Companion Proceedings of TheWebConf 2025** can be freely submitted to other venues in the future.  
+- Previously published or under-review work are also welcome for submission to the workshop but **will not** be included in the **Companion Proceedings of TheWebConf 2025**. Authors should use the standard ACM template and clearly indicate the prior publication status of their paper.  
+- All accepted papers will be archived on the workshop's website.  
 
 This policy encourages open discussions while respecting the integrity of prior and future publications.
 
@@ -71,20 +77,19 @@ All submissions must be in English and must adhere to the [ACM template and form
 
 CCS class and keywords sections are optional.
 
-- Papers must be between **4 and 8 pages** in the ACM manuscript format (excluding references). 
-- Appendices are allowed but will not count toward the page limit. References and acknowledgments are excluded from the page count.
-
 ### Submission Site
 
 Submission site:[https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/NEGEL](https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/NEGEL)
 
 ## Important Dates
 
-* **2024-12-25**: Paper submission deadline  
-* **2025-01-13**: Author notification 
-* **2025-02-02**: Camera-ready submission 
-* **2025-04-28**: Workshop (Full-day session)
 
-Timezone: Anywhere On Earth (UTC-12)
+* <span style="color: red;">2024-12-30: Paper submission deadline(Extended)</span>  
+* **2025-01-24**: Author notification
+* **2025-02-02**: Camera-ready submission 
+* **2025-04-28**: Workshop at TheWebConf 2025 (Whole-day session)
+* **Submission site**: [https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/NEGEL](https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/NEGEL)
+* **Venue**: International Convention & Exhibition Centre (ICC), Sydney, Australia
+* **Timezone**: Anywhere On Earth (UTC-12)
 
 

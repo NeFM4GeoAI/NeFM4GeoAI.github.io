@@ -23,21 +23,21 @@ The primary objective of the NEGEL workshop at [TheWebConf 2025](https://www2025
 
 ## Important Dates
 
-* **2024-12-25**: Paper submission deadline  
-* **2025-01-13**: Author notification  
-* **2025-02-02**: Camera-ready submission  
+* <span style="color: red;">2024-12-30: Paper submission deadline(Extended)</span>  
+* **2025-01-24**: Author notification
+* **2025-02-02**: Camera-ready submission 
 * **2025-04-28**: Workshop at TheWebConf 2025 (Whole-day session)
-* <span style="color: red;">Submission site: [https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/NEGEL](https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/NEGEL)</span>
-
-Timezone: Anywhere On Earth (UTC-12)
+* **Submission site**: [https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/NEGEL](https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/NEGEL)
+* **Venue**: International Convention & Exhibition Centre (ICC), Sydney, Australia
+* **Timezone**: Anywhere On Earth (UTC-12)
 
 
 
 ## Program Highlights
 
-* **Interactive Poster Sessions**: Two dynamic sessions to present and discuss the latest research in non-Euclidean representation learning and foundation models, with a focus on web applications
+* **Interactive Poster Sessions**: Two dynamic sessions to present and discuss the latest research in Geometric Learning, non-Euclidean representation learning and foundation models, along with web-related applications
 * **Contributed Talks**: Selected high-quality papers presented in two dedicated slots, with approximately 4 papers chosen for oral presentations
-* **Panel Discussion**: "FM & Non-Euclidean Space" exploring future directions and challenges in combining foundation models (e.g., LLMs) with non-Euclidean approaches
+* **Panel Discussion**: "FM & Geometric Non-Euclidean Learning" exploring future directions and challenges in combining foundation models (e.g., LLMs) with non-Euclidean approaches
 * **Networking Opportunities**:
   - Research matchmaking during coffee breaks
   - Informal discussions during lunch
@@ -53,11 +53,11 @@ Timezone: Anywhere On Earth (UTC-12)
 
 We welcome submissions on the following topics (but not limited to):
 
-- **Theoretical Foundations**: Investigate fundamental principles of non-Euclidean and geometric deep learning, including manifold theory, differential geometry, and non-Euclidean spaces. Topics encompass mathematical properties such as sectional curvature, geodesic distances, parallel transport, and isometric transformations, with particular emphasis on their implications for foundation model architectures and optimization dynamics..
+- **New Large Language/Foundation Models with Geometries**: Develop new architectures and algorithms integrating Large Language/Foundation Models (e.g., LLMs, ViTs, and multi-modal models) with geometric and non-Euclidean learning, enhancing their capability to handle non-Euclidean structures, complex relationships understanding, and complex reasoning abilities.
 
-- **Architectures, Algorithms, and Large Foundation Models**: Develop new architectures and algorithms integrating large foundation models (e.g., LLMs, ViTs, and multi-modal models) with non-Euclidean spaces and geometric principles, enhancing their capability to handle complex structures and relationships.
+- **Large Language/Foundation Models Adaptation with Geometries**: Present methodologies for extending and adapting large foundation/language models through geometric guidances. Key areas include geometric fine-tuning strategies, manifold-aware continual learning, and techniques for preserving geometric structure during model adaptation. Special interest in GraphRAG implementations that leverage geometric structures for knowledge retrieval and generation, as well as geometric approaches to agent architectures.
 
-- **Adapting and Enhancing Existing Foundation Models**: Present methodologies for extending and adapting foundation models through geometric principles. Key areas include geometric fine-tuning strategies, manifold-aware continual learning, and techniques for preserving geometric structure during model adaptation. Special interest in GraphRAG implementations that leverage geometric structures for knowledge retrieval and generation, as well as geometric approaches to agent architectures.
+- **Theoretical Studies**: Investigate fundamental principles of geometric and non-Euclidean space learning, including manifold theory, differential geometry, and non-Euclidean spaces. Topics encompass mathematical properties such as curvature, geodesic distances, parallel transport, and isometric transformations, with particular emphasis on their implications for foundation model architectures and optimization dynamics.
 
 - **Geometric Deep Learning**: Advanced methods in geometric learning, including **graph neural networks**, **equivariant models, and message-passing framework**s, with applications to web-specific tasks like structured data representation and multi-modal alignment.
 
