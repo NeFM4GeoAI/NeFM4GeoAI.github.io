@@ -23,9 +23,9 @@ The primary objective of the NEGEL workshop at [TheWebConf 2025](https://www2025
 
 ## Important Dates
 
-* <span style="color: red;">2024-12-30: Paper submission deadline(Extended)</span>  
-* **2025-01-24**: Author notification
-* **2025-02-02**: Camera-ready submission 
+* <span style="color: red;">2025-01-01: Paper submission deadline(Extended)</span>  
+* **2025-01-27**: Author notification (Extended) 
+* **2025-02-07**: Camera-ready submission (Extended)
 * **2025-04-28**: Workshop at TheWebConf 2025 (Whole-day session)
 * **Submission site**: [https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/NEGEL](https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/NEGEL)
 * **Venue**: International Convention & Exhibition Centre (ICC), Sydney, Australia
