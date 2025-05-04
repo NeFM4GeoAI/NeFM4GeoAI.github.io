@@ -21,16 +21,17 @@ We invite you to join discussions on Non-Euclidean representation learning and g
 The primary objective of the NEGEL workshop at [TheWebConf 2025](https://www2025.thewebconf.org/) is to create a collaborative platform for researchers, industry professionals, and academics from diverse fields. These include non-Euclidean representation learning, geometric deep learning, and large foundation models, as well as web-related applications such as recommender systems, social network analysis, web knowledge graphs, search systems, information retrieval, and multi-modal web content understanding. The workshop aims to foster knowledge sharing, idea exchange, and discussions on the latest advancements and challenges in these domains.
 
 
+Join our [Slack channel](https://join.slack.com/t/negel2025/shared_invite/zt-20kpkm9qt-iqSzVjFlY2yBbwy_nvNHYQ) for more discussions and updates about the workshop!
+
 ## Important Dates
 
-* <span style="color: red;">2025-02-01: Paper submission deadline(Extended)</span>   
+* **2025-02-01**: Paper submission deadline(Extended)
 * **2025-02-03**: Author notification (Extended)
 * **2025-02-07**: Camera-ready submission
-* **2025-04-28**: Workshop at TheWebConf 2025 (Whole-day session)
+* **2025-04-29**: Workshop at TheWebConf 2025 (Whole-day session)
 * **Submission site**: [https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/NEGEL](https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/NEGEL)
 * **Venue**: International Convention & Exhibition Centre (ICC), Sydney, Australia
 * **Timezone**: Anywhere On Earth (UTC-12)
-
 
 
 ## Program Highlights
@@ -152,10 +153,30 @@ The workshop features an international and distinguished lineup of speakers from
 </table>
 
 
-## Program Committees
+## Accepted Papers
 
-TBA
+We are pleased to announce the following papers that have been accepted for presentation at NEGEL 2025. 
 
-To be our program committee or if you have any questions about the workshop, feel free to contact us at `negel2025@outlook.com`
+1. **[GraphiT: Efficient Node Classification on Text-Attributed Graphs with Prompt Optimized LLMs](https://openreview.net/forum?id=AzuuFk04A7)**  
+   *Shima Khoshraftar, Niaz Abedini, Amir Hajian*  
 
-We look forward to your participation in the workshop!
+2. **[Distributional Robust Optimization-Induced Graph Neural Networks](https://openreview.net/forum?id=BnkwpKSesy)**  
+   *Hao Zhu*
+
+3. **[Understanding the Design Principles of Link Prediction in Directed Settings](https://openreview.net/forum?id=TOSpHOTA14)**  
+   *Jun Zhai, Muberra Ozmen, Thomas Markovich*
+
+4. **[MH-Diff: Muti-scale Hyperbolic Model for Information Diffusion Prediction](https://openreview.net/forum?id=H8cnUjJbya)**  
+   *Fuxia Guo, Xiaowen Wang, Lanjun Wang*
+
+5. **[Hyperbolic Multi-semantic Transition for Next POI Recommendation](https://openreview.net/forum?id=pwxo4nqgPH)**  
+   *Hongliang Qiao, Shanshan Feng, Min Zhou, WenTao Li, Fan LI*
+
+6. **[HyperCore: The Core Library for Building Foundational Models in Hyperbolic Space with Comprehensive Modules](https://openreview.net/forum?id=XaNfZ0ZSci)**  
+   *Neil He, Menglin Yang, Rex Ying*
+
+
+
+**Note**: We encourage in-person participation, but remote presentations will be available for authors who cannot travel to Sydney.
+
+Feel free to contact us at `negel2025@outlook.com`. We look forward to your participation in the workshop!
