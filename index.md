@@ -181,15 +181,17 @@ We are pleased to announce the following papers that have been accepted for pres
 
 ## Workshop Agenda
 
-- 9:00 – 9:10 | Opening Remarks
-- 9:10 – 10:00 | Keynote: Prof. Shirui Pan (Talk: Boosting Large Language Model Reasoning with Graphs)
-- 10:00 – 10:50 | Keynote: Prof. Philip Yu (Talk: Riemannian Geometric Deep Graph Learning: A New Perspective on Graph Foundation Models)
-- 10:50 – 11:40 | Keynote: Prof. Smita Krishnaswamy (Talk: Learnable Deep Wavelets, Scattering, and Signal Processing on Graphs)
-- 11:40 – 13:30 | Poster Session
-- 13:30 – 14:20 | Keynote: Prof. Pascal Mettes (Talk: Hyperbolic Visual Understanding)
-- 14:20 – 15:10 | Keynote: Dr. Min Zhou (Talk: Enhancing Graph Learning from the Lens of Curvature)
-- 15:10 – 15:40 | Panel Discussion (Featuring: Pascal Mettes, Rex Ying, Menglin Yang)
-- 15:40 – 17:10 | Contributed Talks *(12-minute presentation + 3-minute Q&A each)*
-- 17:10 – 17:30 | Awards Ceremony (Best Paper & Best Poster)
+| Time | Event |
+|------|-------|
+| 9:00 – 9:10 | Opening Remarks |
+| 9:10 – 10:00 | Keynote: Prof. Shirui Pan (Talk: Boosting Large Language Model Reasoning with Graphs) |
+| 10:00 – 10:50 | Keynote: Prof. Philip Yu (Talk: Riemannian Geometric Deep Graph Learning: A New Perspective on Graph Foundation Models) |
+| 10:50 – 11:40 | Keynote: Prof. Smita Krishnaswamy (Talk: Learnable Deep Wavelets, Scattering, and Signal Processing on Graphs) |
+| 11:40 – 13:30 | Poster Session |
+| 13:30 – 14:20 | Keynote: Prof. Pascal Mettes (Talk: Hyperbolic Visual Understanding) |
+| 14:20 – 15:10 | Keynote: Dr. Min Zhou (Talk: Enhancing Graph Learning from the Lens of Curvature) |
+| 15:10 – 15:40 | Panel Discussion (Featuring: Pascal Mettes, Rex Ying, Menglin Yang) |
+| 15:40 – 17:10 | Contributed Talks *(12-minute presentation + 3-minute Q&A each)* |
+| 17:10 – 17:30 | Awards Ceremony (Best Paper & Best Poster) |
 
 Feel free to contact us at `negel2025@outlook.com`. We look forward to your participation in the workshop!
