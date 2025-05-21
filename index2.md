@@ -14,7 +14,7 @@ optimal inductive bias for foundation models, or could alternative
 geometric spaces better align with the intrinsic structure of realworld data and reasoning processes? 
 
 
-Join our [Slack channel](https://join.slack.com/t/negel2025/shared_invite/zt-20kpkm9qt-iqSzVjFlY2yBbwy_nvNHYQ) for more discussions and updates about the workshop!
+Join our [Slack channel](https://join.slack.com/t/hyperboliclearning/shared_invite/zt-1qcqgtwfr-HpsRSzDhvkAEal6dOnKDvA) for more discussions and updates about the workshop!
 
 # Hyperbolic Geometry and Its Applications in Deep Learning
 
