@@ -1,13 +1,22 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Sans+Pro:wght@400;600&display=swap');
+
 /* Base Body Styles */
 body {
-  max-width: 1200px; /* Set maximum width for the page */
+  max-width: 1500px; /* Set maximum width for the page */
   margin: 0 auto;    /* Center the content */
   padding: 0 20px;   /* Add spacing to avoid content touching edges */
   box-sizing: border-box;
-  font-family: Arial, sans-serif; /* Use a clean, readable font */
-  line-height: 1.6;  /* Improve readability */
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  line-height: 1.7;  /* Improve readability */
   background-color: #f9f9f9; /* Optional: Add a subtle background color */
-  color: #333;       /* Text color */
+  color: #2d3748;       /* Text color */
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
 }
 
 /* Wrapper for Centralized Content */
@@ -19,15 +28,56 @@ body {
 }
 
 /* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Source Sans Pro', 'Inter', sans-serif;
+  font-weight: 600;
+  line-height: 1.3;
+  color: #1a202c;
+  margin-top: 1.5em;
+  margin-bottom: 0.75em;
+}
+
 h2 {
   padding-top: 20px; /* Space above the heading */
   margin-bottom: 10px; /* Space between the heading and divider */
-  border-bottom: 2px solid #ddd; /* Add a divider line below heading */
+  border-bottom: 2px solid #e2e8f0;
   padding-bottom: 5px; /* Adjust padding for a natural look */
-  font-size: 1.8em; /* Adjust heading size */
-  color: #444; /* Slightly darker text for headings */
+  font-size: 2em;
+  color: #2d3748;
+  letter-spacing: -0.02em;
 }
 
+/* Paragraphs and Text */
+p {
+  margin-bottom: 1.5em;
+  font-size: 1.05em;
+  line-height: 1.8;
+  color: #4a5568;
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+}
+
+/* List Items */
+li {
+  text-align: justify;
+  text-justify: inter-word;
+  margin-bottom: 0.5em;
+  padding-left: 1em;
+}
+
+/* Bullet Points */
+ul {
+  padding-left: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+/* Nested Lists */
+ul ul {
+  padding-left: 2em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
 
 /* Images */
 td img {
@@ -84,8 +134,9 @@ td {
   position: relative;
   z-index: 2; /* 置于半透明背景上方 */
   color: white; /* 白色字体 */
-  font-size: 22px; /* 默认字体大小 */
-  font-weight: bold; /* 粗体 */
+  font-size: 1.8em;
+  font-family: 'Source Sans Pro', 'Inter', sans-serif;
+  font-weight: 600;
   text-align: center; /* 居中对齐 */
   text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5); /* 添加阴影 */
   margin: 0 10px; /* 防止文字过于靠边 */
@@ -97,6 +148,7 @@ td {
   body {
       max-width: 100%; /* Full-width on smaller screens */
       padding: 0 10px; /* Reduce side padding for smaller screens */
+      font-size: 15px;
   }
 
   h2 {
@@ -105,6 +157,9 @@ td {
       padding-bottom: 3px;
   }
 
+  .banner-text {
+    font-size: 1.4em;
+  }
 
   .wrapper {
       padding: 0 10px; /* Ensure wrapper adapts to smaller screens */
