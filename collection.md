@@ -1054,9 +1054,9 @@ Yuekang Li, Yidan Mao, Yifei Yang, Dongmian Zou
 To cite this repository:
 ```
 @misc{hyperbolic-repo,
-  author = {Menglin Yang, Min Zhou},
+  author = {Menglin Yang, Min Zhou, Rex Ying},
   title = {{Hyperbolic Representation and Deep Learning: A Comprehensive Collection}},
-  howpublished = {\url{https://github.com/marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning}},
+  howpublished = {https://github.com/marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning},
   year = 2024,
   month = September
 }

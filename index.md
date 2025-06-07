@@ -6,13 +6,77 @@ permlink: /
 
 <link rel="stylesheet" href="/style.css">
 
-Foundation models, including large language models (LLMs), visionlanguage models (VLMs), and large multimodal models, pre-trained
-on massive datasets, have demonstrated remarkable success in
-diverse downstream tasks. However recent studies reveal fundamental limitations of these models: (1) limited representational
-capacity, (2) lower adaptability, and (3) less scalability. These shortcomings raise a critical question: Is Euclidean geometry truly the
-optimal inductive bias for foundation models, or could alternative
-geometric spaces better align with the intrinsic structure of realworld data and reasoning processes? 
+## Introduction
 
+Foundation models, including large language models (LLMs), vision-language models (VLMs), and large multimodal models, pre-trained on massive datasets, have demonstrated remarkable success in diverse downstream tasks. However recent studies reveal fundamental limitations of these models: (1) limited representational capacity, (2) lower adaptability, and (3) less scalability. These shortcomings raise a critical question: Is Euclidean geometry truly the optimal inductive bias for foundation models, or could alternative geometric spaces better align with the intrinsic structure of real-world data and reasoning processes?
+
+<div class="sticky-outline">
+  <ul>
+    <li><a href="#events-and-news">Events and News</a></li>
+    <li><a href="#1-hyperbolic-geometry">Hyperbolic Geometry</a></li>
+    <li><a href="#2-hyperbolic-models">Hyperbolic Models</a></li>
+    <li><a href="#3-hyperbolic-neural-networks">Hyperbolic Neural Networks</a></li>
+    <li><a href="#4-hyperbolic-transformers">Hyperbolic Transformers</a></li>
+    <li><a href="#5-hyperbolic-foundation-models">Hyperbolic Foundation Models</a></li>
+    <li><a href="#challenges-and-opportunities">Challenges and Opportunities</a></li>
+    <li><a href="#6-conclusion">Conclusion</a></li>
+  </ul>
+</div>
+
+<style>
+.sticky-outline {
+  position: fixed;
+  top: 80px;
+  left: 20px;
+  width: 320px;
+  max-height: 85vh;
+  overflow-y: auto;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  padding: 25px 15px;
+  z-index: 1000;
+  font-size: 1.1rem;
+}
+.sticky-outline ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.sticky-outline > ul > li {
+  margin-bottom: 8px;
+}
+.sticky-outline li {
+  margin-bottom: 3px;
+}
+.sticky-outline > ul > li > a {
+  font-weight: 600;
+  font-size: 1.15rem;
+}
+.sticky-outline a {
+  color: #B22222;
+  text-decoration: none;
+  transition: color 0.2s;
+  display: block;
+  padding: 4px 0;
+}
+.sticky-outline a:hover {
+  color: #2222B2;
+  text-decoration: underline;
+}
+@media (max-width: 1200px) {
+  .sticky-outline {
+    display: none;
+  }
+  .main-content {
+    margin-left: 0;
+  }
+}
+.main-content {
+  margin-left: 370px;
+}
+</style>
 
 # Events and News!
 
@@ -22,7 +86,6 @@ geometric spaces better align with the intrinsic structure of realworld data and
 - ✅ [KDD 2023 Tutorial - Website](https://hyperbolicgnn.github.io/)
 - 👉 [Slack channel for more discussions and tracking updates!](https://join.slack.com/t/hyperboliclearning/shared_invite/zt-1qcqgtwfr-HpsRSzDhvkAEal6dOnKDvA) 
 - 👉 [Awesome Hyperbolic Representation and Deep Learning Repository]({{ "/collection" | relative_url }})
-
 
 ## 1. Hyperbolic Geometry
 
@@ -119,3 +182,8 @@ Hyperbolic geometry provides a powerful framework for enhancing deep learning sy
 
 As research progresses, we can expect hyperbolic methods to become increasingly integrated into mainstream deep learning systems, particularly for knowledge-intensive applications requiring multi-scale reasoning. The development of stable, efficient hyperbolic operations and their thoughtful integration into neural architectures promises significant advances in AI's ability to represent and reason about complex hierarchical structures.
 
+## Contributors
+
+Menglin Yang, Neil He, Hiren Madhu, Ngoc Bui, Ali Maatouk, Rishabh Anand, Yifei Zhang, Jialin Chen, Jiahong Liu, Bo Xiong, Min Zhou, Irwin King, Melanie Weber, Rex Ying
+
+Invited Speakers: Philip S. Yu, Shirui Pan, Min Zhou, Pascal Mettes, Smita Krishnaswamy
