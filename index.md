@@ -21,7 +21,7 @@ geometric spaces better align with the intrinsic structure of realworld data and
 - ✅ [WWW 2025 Workshop - Website]({{ "/events/www2025workshop" | relative_url }})
 - ✅ [KDD 2023 Tutorial - Website](https://hyperbolicgnn.github.io/)
 - 👉 [Slack channel for more discussions and tracking updates!](https://join.slack.com/t/hyperboliclearning/shared_invite/zt-1qcqgtwfr-HpsRSzDhvkAEal6dOnKDvA) 
-- 👉 [Awesome Hyperbolic Representation and Deep Learning GitHub Repository](https://github.com/marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning)
+- 👉 [Awesome Hyperbolic Representation and Deep Learning Repository]({{ "/index_hyp" | relative_url }})
 
 
 ## 1. Hyperbolic Geometry
