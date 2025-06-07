@@ -1,5 +1,5 @@
 ---
-title: "Hyperbolic Learning @ 2025"
+title: "Collections of Awesome Hyperbolic Representation and Deep Learning"
 layout: page
 permlink: /
 ---
@@ -51,6 +51,12 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
         <li><a href="#multi-label-learning">Multi-label Learning</a></li>
         <li><a href="#hyperbolic-metric-learning">Hyperbolic Metric Learning</a></li>
         <li><a href="#data-driven-geometry-learning">Data-driven Geometry Learning</a></li>
+        <li><a href="#few-shot-learning">Few-Shot Learning</a></li>
+        <li><a href="#open-vocabulary-learning">Open-Vocabulary Learning</a></li>
+        <li><a href="#safety-and-robustness">Safety and Robustness</a></li>
+        <li><a href="#environmental-monitoring">Environmental Monitoring</a></li>
+        <li><a href="#category-discovery">Category Discovery</a></li>
+        <li><a href="#multi-criteria-learning">Multi-Criteria Learning</a></li>
       </ul>
     </li>
   </ul>
@@ -78,10 +84,10 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
   margin: 0;
 }
 .sticky-outline > ul > li {
-  margin-bottom: 15px;
+  margin-bottom: 8px;
 }
 .sticky-outline li {
-  margin-bottom: 8px;
+  margin-bottom: 3px;
 }
 .sticky-outline > ul > li > a {
   font-weight: 600;
@@ -99,11 +105,11 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
   text-decoration: underline;
 }
 .sticky-outline .subsection {
-  margin-top: 8px;
+  margin-top: 3px;
   margin-left: 15px;
 }
 .sticky-outline .subsection li {
-  margin-bottom: 5px;
+  margin-bottom: 2px;
 }
 .sticky-outline .subsection a {
   font-size: 0.95rem;
@@ -125,6 +131,15 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
   margin-left: 370px;
 }
 </style>
+
+
+
+
+
+**Hyperbolic Slack Group**
+- Slack: https://join.slack.com/t/hyperboliclearning/shared_invite/zt-1qcqgtwfr-HpsRSzDhvkAEal6dOnKDvA
+- Website: https://hyperboliclearning.github.io/
+
 
 ## [Latest Update](#content)
 - Jun  7, 2025 : update CVPR 2025, SIGIR 2025, ACL 2025 paper 🔥
@@ -160,7 +175,7 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 *Simon Welz, Lucie Flek, Akbar Karimi*
 
 **SIGIR 2025**
-1. [VoRec: Enhancing Recommendation with Voronoi Diagram in Hyperbolic Space]([https://sigir2025.dei.unipd.it/accepted-papers.html](https://sigir2025.dei.unipd.it/accepted-papers.html)), SIGIR 2025 \
+1. [VoRec: Enhancing Recommendation with Voronoi Diagram in Hyperbolic Space](https://sigir2025.dei.unipd.it/accepted-papers.html), SIGIR 2025 \
 *Yong Chen, Li Li, Wei Peng, Songzhi Su*
 
 1. [Large Language Models Enhanced Hyperbolic Space Recommender Systems](https://arxiv.org/abs/2504.05694), SIGIR 2025 \
@@ -443,8 +458,6 @@ Caglar Gulcehre, Misha Denil, Mateusz Malinowski, Ali Razavi, Razvan Pascanu, Ka
 1. [Hyperbolic Neural Network++](https://arxiv.org/abs/2006.08210), ICLR 2021 \
    Ryohei Shimizu, Yusuke Mukuta, Tatsuya Harada
 
-
-
 ### [Theoretical Foundations](#content)
 1. [Representation Tradeoffs for Hyperbolic Embeddings](https://arxiv.org/abs/1804.03329), ICML 2018 \
 Christopher De Sa, Albert Gu, Christopher Ré, Frederic Sala
@@ -571,6 +584,12 @@ Martin Skrodzki, Hunter van Geffen, Nicolas F. Chaves-de-Plaza, Thomas Höllt, E
 
 ### [LLM and Hyperbolic Space](#content)
 
+1. [HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts](https://arxiv.org/abs/2505.24722) 🔥 \
+Neil He, Rishabh Anand, Hiren Madhu, Ali Maatouk, Smita Krishnaswamy, Leandros Tassiulas, Menglin Yang, Rex Ying
+
+1. [Large Language Models Enhanced Hyperbolic Space Recommender Systems](https://arxiv.org/abs/2504.05694), SIGIR 2025 \
+*Wentao Cheng, Zhida Qin, Zexue Wu, Pengzhan Zhou, Tianyu Huang*
+
 1. [Language Models as Hierarchy Encoders](https://arxiv.org/abs/2401.11374), NeurIPS 2024 \
 Yuan He, Zhangdie Yuan, Jiaoyan Chen, Ian Horrocks
 
@@ -583,6 +602,9 @@ Yuan He, Zhangdie Yuan, Jiaoyan Chen, Ian Horrocks
 ## [Applications](#content)
 
 ### [Natural Language Processing](#content)
+
+1. [Enhancing Multi-Hop Reasoning for Question Answering with Hyperbolic Representations](https://2025.aclweb.org/program/find_papers/), ACL Findings 2025 \
+*Simon Welz, Lucie Flek, Akbar Karimi*
 
 1. [Poincare Glove: Hyperbolic Word Embeddings](https://arxiv.org/abs/1810.06546), ICLR 2019 \
 Alexandru Tifrea and Gary Becigneul and Octavian-Eugen Gane
@@ -632,7 +654,22 @@ Nurendra Choudhary , Nikhil Rao , Sumeet Katariya , Karthik Subbian , Chandan K.
 
 ### [Computer Vision](#content)
 
-1. [Improving Visual Recognition with Hyperbolical Visual Hierarchy Mapping](https://arxiv.org/pdf/2404.00974.pdf)
+1. [Hyperbolic Category Discovery](https://arxiv.org/abs/2504.06120), CVPR 2025 \
+*Yuanpei Liu, Zhenqi He, Kai Han*
+
+1. [Parameter-efficient Fine-tuning in Hyperspherical Space for Open-vocabulary Semantic Segmentation](https://arxiv.org/abs/2405.18840), CVPR 2025 \
+*Zelin Peng, Zhengqin Xu, Zhilin Zeng, Changsong Wen, Yu Huang, Menglin Yang, Feilong Tang, Wei Shen*
+
+1. [Hyperbolic Safety-Aware Vision-Language Models](https://arxiv.org/abs/2503.12127), CVPR 2025 \
+*Tobia Poppi, Tejaswi Kasarla, Pascal Mettes, Lorenzo Baraldi, Rita Cucchiara*
+
+1. [Hyperbolic Uncertainty-Aware Few-Shot Incremental Point Cloud Segmentation](https://cvpr.thecvf.com/virtual/2025/poster/34838), CVPR 2025 \
+*Tanuj Sur, Samrat Mukherjee, Kaizer Rahaman, Subhasis Chaudhuri, Muhammad Haris Khan, Biplab Banerjee*
+
+1. [Deep Change Monitoring: A Hyperbolic Representative Learning Framework and a Dataset for Long-term Fine-grained Tree Change Detection](https://arxiv.org/abs/2503.00643), CVPR 2025 \
+*Yante Li, Hanwen Qi, Haoyu Chen, Liang Xinlian, Guoying Zhao*
+
+1. [Improving Visual Recognition with Hyperbolical Visual Hierarchy Mapping](https://arxiv.org/pdf/2404.00974.pdf), CVPR 2025
    Hyeongjun Kwon, Jinhyun Jang, Jin Kim, Kwonyoung Kim, Kwanghoon Sohn
 
 1. [HyperSDFusion: Bridging Hierarchical Structures in Language and Geometry for Enhanced 3D Text2Shape Generation](https://arxiv.org/pdf/2403.00372.pdf), arxiv 2024 \
@@ -745,6 +782,14 @@ Ramit Sawhney, Shivam Agarwal, Arnav Wadhwa , Rajiv Shah
 
 ### [Recommender Systems](#content)
 
+1. [VoRec: Enhancing Recommendation with Voronoi Diagram in Hyperbolic Space](https://sigir2025.dei.unipd.it/accepted-papers.html), SIGIR 2025 \
+*Yong Chen, Li Li, Wei Peng, Songzhi Su*
+
+1. [Large Language Models Enhanced Hyperbolic Space Recommender Systems](https://arxiv.org/abs/2504.05694), SIGIR 2025 \
+*Wentao Cheng, Zhida Qin, Zexue Wu, Pengzhan Zhou, Tianyu Huang*
+
+1. [Hyperbolic Multi-Criteria Rating Recommendation](https://sigir2025.dei.unipd.it/accepted-papers.html), SIGIR 2025 \
+*Zhihao Guo, Ting Han, Peng Song, Chenjiao Feng, Kaixuan Yao, Jiye Liang*
 
 **Analysis**
 
@@ -962,6 +1007,48 @@ Zhi Gao, Chen Xu, Feng Li, Yunde Jia, Mehrtash Harandi, Yuwei Wu
 
 1. [Curvature-Adaptive Meta-Learning for Fast Adaptation to Manifold Data](https://ieeexplore.ieee.org/abstract/document/9749838), TPAMI 2023\
 Zhi Gao, Yuwei Wu, Mehrtash Harandi, and Yunde Jia
+
+### [Few-Shot Learning](#content)
+
+1. [Hyperbolic Uncertainty-Aware Few-Shot Incremental Point Cloud Segmentation](https://cvpr.thecvf.com/virtual/2025/poster/34838), CVPR 2025 \
+*Tanuj Sur, Samrat Mukherjee, Kaizer Rahaman, Subhasis Chaudhuri, Muhammad Haris Khan, Biplab Banerjee*
+
+1. [Hyperbolic vs Euclidean Embeddings in Few-Shot Learning: Two Sides of the Same Coin](https://arxiv.org/abs/2309.10013) WACV \
+   Gabriel Moreira, Manuel Marques, João Paulo Costeira, Alexander Hauptmann
+
+1. [Curvature Generation in Curved Spaces for Few-Shot Learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Gao_Curvature_Generation_in_Curved_Spaces_for_Few-Shot_Learning_ICCV_2021_paper.pdf), ICCV 2021 \
+Zhi\* Gao, Yuwei Wu\*, Yunde Jia, Mehrtash Harandi
+
+### [Open-Vocabulary Learning](#content)
+
+1. [Parameter-efficient Fine-tuning in Hyperspherical Space for Open-vocabulary Semantic Segmentation](https://arxiv.org/abs/2405.18840), CVPR 2025 \
+*Zelin Peng, Zhengqin Xu, Zhilin Zeng, Changsong Wen, Yu Huang, Menglin Yang, Feilong Tang, Wei Shen*
+
+1. [Hyperbolic Learning with Synthetic Captions for Open-World Detection](https://arxiv.org/abs/2404.05016), CVPR 2024 \
+Fanjie Kong, Yanbei Chen, Jiarui Cai, Davide Modolo
+
+### [Safety and Robustness](#content)
+
+1. [Hyperbolic Safety-Aware Vision-Language Models](https://arxiv.org/abs/2503.12127), CVPR 2025 \
+*Tobia Poppi, Tejaswi Kasarla, Pascal Mettes, Lorenzo Baraldi, Rita Cucchiara*
+
+1. [Improving Robustness of Hyperbolic Neural Networks by Lipschitz Analysis](https://dl.acm.org/doi/pdf/10.1145/3637528.3671875), KDD 2024 \
+Yuekang Li, Yidan Mao, Yifei Yang, Dongmian Zou
+
+### [Environmental Monitoring](#content)
+
+1. [Deep Change Monitoring: A Hyperbolic Representative Learning Framework and a Dataset for Long-term Fine-grained Tree Change Detection](https://arxiv.org/abs/2503.00643), CVPR 2025 \
+*Yante Li, Hanwen Qi, Haoyu Chen, Liang Xinlian, Guoying Zhao*
+
+### [Category Discovery](#content)
+
+1. [Hyperbolic Category Discovery](https://arxiv.org/abs/2504.06120), CVPR 2025 \
+*Yuanpei Liu, Zhenqi He, Kai Han*
+
+### [Multi-Criteria Learning](#content)
+
+1. [Hyperbolic Multi-Criteria Rating Recommendation](https://sigir2025.dei.unipd.it/accepted-papers.html), SIGIR 2025 \
+*Zhihao Guo, Ting Han, Peng Song, Chenjiao Feng, Kaixuan Yao, Jiye Liang*
 
 ## Citation
 To cite this repository:
